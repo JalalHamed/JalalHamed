@@ -1,3 +1,5 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=jalalhamed&label=Profile%20views&color=0e75b6&style=flat" alt="JalalHamed" /></p>
+
 - 👋 Hi, I’m @JalalHamed
 - 👀 I’m interested in ReactJS, Node.JS & TypeScript (JavaScript in general)
 - 🌱 I’m currently learning TypeScript nuances & Node.JS
