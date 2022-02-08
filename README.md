@@ -13,10 +13,10 @@
 
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 <p align="center">
-<a href="https://github.com/Thevergeon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thevergeon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thevergeon&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/JalalHamed">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JalalHamed&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JalalHamed&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <h2>🔒 Github Streak:</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevergeon&" alt="thevergeon" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalalhamed&" alt="jalalhamed" /></p>
