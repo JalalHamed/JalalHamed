@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JalalHamed
-- 👀 I’m interested in JavaScript and it's derivatives. (ReactJS, Next.JS, Remix, Node.JS & TypeScript)
+- 👀 I’m interested in JavaScript and it's derivatives. (React.js, React Native Next.js, Remix, Node.js & TypeScript)
 - 📫 reach me by email iamjalalhamed@gmail.com or linkedin https://linkedin.com/in/jalalhamed
