@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @JalalHamed
-- 👀 I’m interested in JavaScript and it's derivatives. (React.js, React Native Next.js, Remix, Node.js & TypeScript)
+- 👀 I'm a 23 year-old result-driven frontend developer with +5 years of experience in web development.
+- 💻 Specialized in JavaScript, React.js, Next.js, and Typescript.
 - 📫 reach me by email iamjalalhamed@gmail.com or linkedin https://linkedin.com/in/jalalhamed
